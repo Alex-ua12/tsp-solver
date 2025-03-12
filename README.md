@@ -46,7 +46,7 @@ pourraient probablement marcher.
 Depuis un terminal avec connexion à internet entrez ces commandes.
 
 ```
-git clone https://git.leonardgomez.xyz/leg7/tsp-solver
+git clone https://github.com/Alex-ua12/tsp-solver.git
 cd tsp-solver
 make
 ```
