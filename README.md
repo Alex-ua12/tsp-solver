@@ -1,5 +1,7 @@
 # tsp-solver 🗺
 
+Projet réalisé avec l'aide de Léonard GOMEZ
+
 Cet outil permet de résoudre des instances du problème du
 voyageur de commerce suivant la spécification tsplib95.
 
